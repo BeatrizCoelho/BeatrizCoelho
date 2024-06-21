@@ -5,4 +5,4 @@
 - 🤔 Estou a procura de emprego nestas áreas! 
 - 😄 Pronomes: Ela/Dela
 
-<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=BeatrizCoelho&theme=jolly&show_icons=true" />
+
