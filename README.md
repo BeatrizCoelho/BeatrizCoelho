@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Bea Coelho.
 
-- 🔭 Hoje estou trabalhando como Analista de Sistemas
-- 🌱 Estou estudando Design UX e Desenvolvimento de Front-end
-- 🤔 Estou a procura de emprego nestas áreas! 
+- 🔭 Hoje sou Analista de Sistemas e Analista de projeto executando homologação de equipamentos de TI
+- 🌱 Estou cursando a Faculdade de Análise e Desenvolvimento de Sistemas
+- 🤔 Estou a procura de emprego na área de Desing UX/UI ou Desenvolvimento de Front-end
 - 😄 Pronomes: Ela/Dela
 
 
